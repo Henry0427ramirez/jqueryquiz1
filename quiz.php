@@ -6,17 +6,15 @@
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
-	<div class="dan">
+	<div type="buttton" class="dan">
 		<p> 
 		This is Dan's first name.
 		</p>
 	</div>
-	<div class="iwao">
+	<div type="button" class="iwao">
 		<p>
 		This is dan's last name.
 		</p>
 	</div>
-
 </body>
-
 </html>
